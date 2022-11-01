@@ -8,6 +8,6 @@ Curso: JavaScript - explorando a linguagem
 ______________________________________________________________
 Ferramentas utilizadas:
 
-Visual Studio Code: 1.72.2<br>
-Node.js 19.0.0<br>
-Git 2.35.2
+Visual Studio Code - versão 1.72.2<br>
+Node.js - versão 19.0.0<br>
+Git - versão 2.35.2
